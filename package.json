@@ -2,7 +2,7 @@
   "name": "ohohobot",
   "version": "1.0.0",
   "description": "\"# ohohobot\"",
-  "main": "index.js",
+  "main": "app/io.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
